@@ -5,12 +5,6 @@
  *
  * Made By MaterializeCSS.com
  */
-
-nav ul a,
-nav .brand-logo {
-    color: #444;
-}
-
 p {
     line-height: 2rem;
 }
@@ -21,6 +15,18 @@ p {
     width: 150px;
     height: 150px;
     align-items: center;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 50%;
+}
+
+.parallax img {
+    width: 10%;
 }
 
 .center {
