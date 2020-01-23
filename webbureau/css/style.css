@@ -33,6 +33,18 @@ p {
     align-items: center;
 }
 
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 50%;
+}
+
+.parallax img {
+    width: 10%;
+}
+
 .center {
     display: block;
     margin-left: auto;
