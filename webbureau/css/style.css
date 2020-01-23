@@ -5,6 +5,22 @@
  *
  * Made By MaterializeCSS.com
  */
+
+#logo-container img {
+    text-align: center;
+    align-items: center;
+    width: 900px;
+    height: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+
 p {
     line-height: 2rem;
 }
