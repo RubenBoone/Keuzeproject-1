@@ -17,6 +17,18 @@ p {
     align-items: center;
 }
 
+.zilver {
+    color: #AAB8C2 !important;
+}
+
+.donkerzilver {
+    background-color: #AAB8C2;
+}
+
+.nogdonkderder {
+    color: darkblue;
+}
+
 .logo {
     text-align: center;
 }
@@ -37,7 +49,7 @@ p {
 }
 
 .sidenav-trigger {
-    color: #26a69a;
+    color: #657786;
 }
 
 .parallax-container {
