@@ -15,38 +15,40 @@
 </head>
 
 <body>
-
     <!-- Header -->
     <header>
-        <nav class="nav-wrapper light-blue lighten-1">
+        <nav class="nav-wrapper AchtergrondKleur">
             <div class="container">
-                <a href="#" class="brand-logo">MIN</a>
+                <a href="#" class="brand-logo">
+                    MIN
+                </a>
                 <a href="#" class="sidenav-trigger" data-target="mobile-links">
                     <i class="material-icons">menu</i>
                 </a>
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="#">Home</a></li>
+                    <li class="active"><a href="#">Home</a></li>
                     <li><a href="#">OP=OP</a></li>
                     <li><a href="activiteiten.html">Activiteiten</a></li>
                     <li><a href="sponsors.html">Sponsers</a></li>
                     <li><a href="#">Doneren</a></li>
                     <li><a href="#">Partners</a></li>
+                    <li><a href="#">Historiek</a></li>
 
-                    <li><a href="mailto:actiemenseninnood@gmail.com" class="btn-floating btn-small light-blue darken-1"><i class="material-icons lightblue">mail</i></a></li>
+                    <li><a href="mailto:actiemenseninnood@gmail.com" class="btn-floating AchtergrondKleur-lighten-1"><i class="material-icons lightblue">mail</i></a></li>
 
-                    <li><a href="https://www.facebook.com" class="btn-floating btn-small light-blue darken-1"><i class="fab fa-facebook"></i></a></li>
-                    <li></li>
+                    <li><a href="https://www.facebook.com" class="btn-floating onzebtn AchtergrondKleur-lighten-1"><i class="fab fa-facebook"></i></a></li>
                 </ul>
             </div>
         </nav>
         <ul class="sidenav" id="mobile-links">
             <li class="center">Interne pagina's</li>
-            <li><a href="#">Home</a></li>
+            <li class="active"><a href="#">Home</a></li>
             <li><a href="#">OP=OP</a></li>
             <li><a href="#">Activiteiten</a></li>
             <li><a href="#">Sponsers</a></li>
             <li><a href="#">Doneren</a></li>
             <li><a href="#">Partners</a></li>
+            <li><a href="#">Historiek</a></li>
             <li class="center">Externe pagina's</li>
 
             <li><a href="https://www.facebook.com">Facebook</a></li>
@@ -56,29 +58,57 @@
     <!-- Inhoud -->
     <div class="container">
         <div>
-            <h2>Over MIN</h2>
-            <p>Actie mensen in nood is een organisatie die mensen in armoede nabij is. We proberen mee te zoeken naar oplossingen of verwijzen naar de instanties die verder kunnen helpen. Wij zijn actief in de regio Mol, Balen, Dessel en Retie.</p>
-            <p>We zetten ons belangeloos in voor mensen die het moeilijk hebben, door naar hen te luisteren, begrip te tonen, directe noden te lenigen en vervolgens met hen mee op pad te gaan, zoekend naar een oplossing voor hun problemen.</p>
-            <p>Op de dag van vandaag zijn wij een groep van <span class="vet">50 gedreven vrijwilligers</span> die <span class="vet">A</span>ctie voert voor <span class="vet">M</span>ensen <span class="vet">I</span>n <span class="vet">N</span>ood, ongeacht welk hun geloof, kleur, of politieke overtuiging is. Wij zijn solidair met mensen die het moeten stellen met een leefloon, budgetbeheer of die gebukt gaan onder collectieve schuldbemiddeling. Ook voor mensen die uitgeprocedeerd zijn en geen enkele vorm van inkomen meer hebben trachten we er te zijn en mee op pad te gaan om oplossingen te zoeken.</p>
-            <p><span class="vet">Actie MIN</span> is best te vergelijken met de spoeddienst in het ziekenhuis. De mensen die totaal verdwaald zijn in de mallemolen van het leven en zich even niet alleen meer kunnen redden, zijn bij ons welkom voor hulp. Na de eerste zorgen gaan we samen met hen bekijken wat de volgende stappen kunnen zijn naar het herstel van hun situatie. Dan verwijzen we naar andere organisaties zoals het OCMW, CAW of JAC of zoeken naar andere mogelijkheden om uit het dal te geraken. </p>
-        </div>
 
+
+
+            <div class="row">
+                <div class="col m12 l6">
+                    <h2>Over MIN</h2>
+                    <p>Actie mensen in nood is een organisatie die mensen in armoede nabij is. We proberen mee te zoeken naar oplossingen of verwijzen naar de instanties die verder kunnen helpen. Wij zijn actief in de regio Mol, Balen, Dessel en Retie.</p>
+                    <p>We zetten ons belangeloos in voor mensen die het moeilijk hebben, door naar hen te luisteren, begrip te tonen, directe noden te lenigen en vervolgens met hen mee op pad te gaan, zoekend naar een oplossing voor hun problemen.</p>
+                    <p>Op de dag van vandaag zijn wij een groep van <span class="vet">50 gedreven vrijwilligers</span> die <span class="vet">A</span>ctie voert voor <span class="vet">M</span>ensen <span class="vet">I</span>n <span class="vet">N</span>ood, ongeacht welk hun geloof, kleur, of politieke overtuiging is. Wij zijn solidair met mensen die het moeten stellen met een leefloon, budgetbeheer of die gebukt gaan onder collectieve schuldbemiddeling. Ook voor mensen die uitgeprocedeerd zijn en geen enkele vorm van inkomen meer hebben trachten we er te zijn en mee op pad te gaan om oplossingen te zoeken.</p>
+                    <p><span class="vet">Actie MIN</span> is best te vergelijken met de spoeddienst in het ziekenhuis. De mensen die totaal verdwaald zijn in de mallemolen van het leven en zich even niet alleen meer kunnen redden, zijn bij ons welkom voor hulp. Na de eerste zorgen gaan we samen met hen bekijken wat de volgende stappen kunnen zijn naar het herstel van hun situatie. Dan verwijzen we naar andere organisaties zoals het OCMW, CAW of JAC of zoeken naar andere mogelijkheden om uit het dal te geraken. </p>
+
+
+                </div>
+                <div class="col m12 l6 MargeTop">
+
+                    <div id="fb-root"></div>
+                    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v5.0"></script>
+
+                    <div class="fb-page" data-href="https://www.facebook.com/Actie-Min-vzw-114502416757004/" data-tabs="timeline" data-width="300" data-height="450" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/ThomasMoreBE/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ThomasMoreBE/">Facebook</a></blockquote>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
     <!-- Footer -->
-    <footer class="page-footer light-blue lighten-1">
+    <footer class="page-footer AchtergrondKleur">
         <div class="container">
             <div class="row">
                 <div class="col s12 l6">
                     <h5>Info</h5>
+
                     <div class="vettevoet">Maatschappelijke zetel: Bresserdijk 4 - 2400 Mol</div>
                     <div>Voedselbedeling – noodhulp op zaterdag: St Apollonialaan 198</div>
                     <div>AXA Bank rekening: BE29 7512 0621 4764 - BIC AXABBE22</div>
                     <div class="vettevoet">Lid van Welzijnsschakel</div>
+
+                    <div>Voedselbedeling – noodhulp op zaterdag: St Apollonialaan 198</div>
+                    <div>Maatschappelijke zetel: Bresserdijk 4 - 2400 Mol</div>
+                    <div>Ondernemingsnummer</div>
+                    <div>AXA Bank rekening: BE29 7512 0621 4764 - BIC AXABBE22</div>
+
+                    <div>Lid van Welzijnsschakel</div>
+                    <div>Fiscale attesten?</div>
+
                 </div>
                 <div class="col s12 l4 offset-l2">
                     <div>
                         <h5>Contact</h5>
-                        Mail:<a href="mailto:actiemenseninnood@gmail.com"> actiemenseninnood@gmail.com
+                        Mail:<a href="mailto:actiemenseninnood@gmail.com">actiemenseninnood@gmail.com
                         </a>
                     </div>
                     <div>Algemene vragen: 0473 /24 13 61</div>
@@ -86,20 +116,29 @@
                 </div>
             </div>
         </div>
+
         <div class="footer-copyright light-blue darken-2">
             <div class="container center-align">'Keuzeproject 1ITF @ <a href="http://www.thomasmore.be/">Thomas More</a> - prototype ontwikkeld door: <a href="../webbureau/index.html">PIXOVER</a>'</div>
+
+        <div class="footer-copyright AchtergrondKleur darken-4">
+            <div class="container center-align">'Keuzeproject 1ITF @ <a href="http://www.thomasmore.be/">Thomas More</a> - prototype ontwikkeld door: <a href="../webbureau/index.html">Pixover</a>'</div>
+
         </div>
     </footer>
+
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
     <script>
-        $(document).ready(function() {
-            $('.sidenav').sidenav();
+        <!-- Navbarlinks 
+        -->
+        $(document).ready(function()
+        {
+        $('.sidenav').sidenav();
         });
 
     </script>
 </body>
-
 </html>
+</body></html>
