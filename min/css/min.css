@@ -51,13 +51,18 @@ a:focus {
 .MargeTop {
     margin-top: 100px;
 
-
-
 /*Van Vincent*/
 .kleinetitels {
     font-size: 20px;
     padding-top: 20px;
 }
+
+
+.vettevoet {
+    font-weight: bold;
+}
+
+/*van jarne*/
 
 .card {
     width: 400px;
