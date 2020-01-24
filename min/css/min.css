@@ -33,3 +33,7 @@ footer a {
 .vet {
     font-weight: bold;
 }
+
+.card {
+    width: 400px;
+}
