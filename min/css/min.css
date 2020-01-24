@@ -22,22 +22,18 @@ footer a {
 
 /* Onze Kleuren */
 
-.AchtergrondKleur {
+.hoofdkleur {
     background-color: #3F5993;
 }
 
-.AchtergrondKleur-lighten-1 {
-    background-color: #3a63bd;
-}
+/* Navigatie */
 
-.AchtergrondKleur-lighten-1:hover {
-    background-color: #3a63bd;
+.navi:hover {
+    box-shadow: 0px 0px 5px 0px #eee
 }
-
-/*Navigatie*/
 
 nav a:focus {
-    background-color: #396599;
+    background-color: #3665b3;
 }
 
 a:focus {
@@ -45,20 +41,39 @@ a:focus {
     background-color: lightblue;
 }
 
-/*Marge Facebook Feed*/
+/*Facebook Feed*/
+#facebook-feed {
+    border: 4px solid #000;
+    border-radius: 20px;
+    background-color: #4264ad;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
 
-.MargeTop {
-    margin-top: 100px;
+#facebook-feed-btn {
+    margin-bottom: 25px;
+}
 
+.fb-page,
+.fb-page span,
+.fb-page span iframe[style] {
+    width: 100% !important;
+}
 
+/*Container van footer en header af*/
+.afstand_container {
+    margin-top: 50px;
+}
 
 /*Van Vincent*/
+
 .kleinetitels {
     font-size: 20px;
     padding-top: 20px;
 }
 
-/*van jarne*/
+/*Activiteiten kaarten*/
+
 .card {
     width: 400px;
 }
