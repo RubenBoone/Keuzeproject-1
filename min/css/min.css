@@ -16,6 +16,7 @@ footer a {
     text-decoration: underline;
 }
 
+/*van Ruben*/
 .vet {
     font-weight: bold;
 }
@@ -58,7 +59,6 @@ a:focus {
     padding-top: 20px;
 }
 
-/*van jarne*/
 .card {
     width: 400px;
 }
