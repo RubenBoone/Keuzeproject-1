@@ -16,7 +16,6 @@ footer a {
     text-decoration: underline;
 }
 
-/*van Ruben*/
 .vet {
     font-weight: bold;
 }
@@ -50,17 +49,4 @@ a:focus {
 
 .MargeTop {
     margin-top: 100px;
-
-/*Van Vincent*/
-.kleinetitels {
-    font-size: 20px;
-    padding-top: 20px;
-}
-
-.vettevoet {
-    font-weight: bold;
-}
-
-.card {
-    width: 400px;
 }
