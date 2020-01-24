@@ -10,17 +10,46 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-
-
 /* Ruben: */
 footer a {
     color: #fff;
     text-decoration: underline;
 }
 
+/*van Ruben*/
 .vet {
     font-weight: bold;
 }
+
+/* Onze Kleuren */
+
+.AchtergrondKleur {
+    background-color: #3F5993;
+}
+
+.AchtergrondKleur-lighten-1 {
+    background-color: #3a63bd;
+}
+
+.AchtergrondKleur-lighten-1:hover {
+    background-color: #3a63bd;
+}
+
+/*Navigatie*/
+
+nav a:focus {
+    background-color: #396599;
+}
+
+a:focus {
+    color: #000;
+    background-color: lightblue;
+}
+
+/*Marge Facebook Feed*/
+
+.MargeTop {
+    margin-top: 100px;
 
 
 
