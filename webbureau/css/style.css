@@ -21,6 +21,14 @@ nav .brand-logo {
     color: #444;
 }
 
+h4 {
+    padding-top: 30px;
+}
+
+.meerpadding {
+    padding-bottom: 30px;
+}
+
 p {
     line-height: 2rem;
 }
@@ -43,6 +51,10 @@ p {
 
 .nogdonkderder {
     color: darkblue;
+}
+
+.nezwarte {
+    color: black;
 }
 
 .logo {
