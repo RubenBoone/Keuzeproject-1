@@ -1,0 +1,428 @@
+[33mcommit 3f590edc5aed41d6fbd0b517303b2c8029d04f11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d126b14 30751bc
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:30:21 2020 +0100
+
+    Merge pull request #68 from itfactory-tm/vincentdebouvre-index
+    
+    Vincentdebouvre index
+
+[33mcommit 30751bcee04fa9d84a2bd5e69c2aedafcaa3ed8c[m[33m ([m[1;31morigin/vincentdebouvre-index[m[33m)[m
+Merge: cceadbe d126b14
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:30:14 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-index
+
+[33mcommit cceadbe1f846605f0e41daeb5bf3c782c319f15e[m
+Merge: 1412f8a e1f1758
+Author: Jarne Bauwens <47212105+Jarne1998@users.noreply.github.com>
+Date:   Fri Jan 24 15:29:12 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-index
+
+[33mcommit d126b1453ef223f5c2920c56f17061d4c8e86e22[m
+Merge: e1f1758 ec6d593
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:28:21 2020 +0100
+
+    Merge pull request #66 from itfactory-tm/vincentdebouvre-footer
+    
+    footer aangepast
+
+[33mcommit ec6d593b4cfbe3e63a195127f31e33b45311c001[m[33m ([m[1;31morigin/vincentdebouvre-footer[m[33m)[m
+Merge: 9e2371d e1f1758
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:28:12 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-footer
+
+[33mcommit 9e2371dfe414c616414093fadbb67f438cc31240[m
+Merge: 81a8250 0155b4c
+Author: Jarne Bauwens <47212105+Jarne1998@users.noreply.github.com>
+Date:   Fri Jan 24 15:26:37 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-footer
+
+[33mcommit 1412f8a3b1b6aa40498bc224112e0b6803160120[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 15:26:30 2020 +0100
+
+    index aangepast links gekoppeld
+
+[33mcommit e1f17586e5ac2362a9ee12486e44518fde9ff660[m
+Merge: 0155b4c af4d54f
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:24:35 2020 +0100
+
+    Merge pull request #67 from itfactory-tm/jarne-css
+    
+    aanpassing van naam in de commentaar van de css
+
+[33mcommit af4d54f24d15584899f08939defab8c039a14986[m[33m ([m[1;31morigin/jarne-css[m[33m)[m
+Merge: 087ec12 0155b4c
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:23:15 2020 +0100
+
+    Merge branch 'master' into jarne-css
+
+[33mcommit 087ec122eae6ec9b51ce722b7f13a22c0561c47d[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Fri Jan 24 15:21:35 2020 +0100
+
+    aanpassing van naam in de commentaar van de css
+
+[33mcommit 81a825005a3c519c820496fae541ef17de9dfd33[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 15:19:04 2020 +0100
+
+    footer aangepast
+
+[33mcommit 0155b4cac20dde9e977a2801f920c3395d403753[m[33m ([m[1;31morigin/brent-index-branch[m[33m)[m
+Merge: c55b227 529c788
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Fri Jan 24 15:17:18 2020 +0100
+
+    Merge pull request #65 from itfactory-tm/RubenBoone-BasicHomepage
+    
+    Tussendoor Homepage
+
+[33mcommit 529c78874659cb1e2ea19b19db7273e596fbac28[m[33m ([m[1;31morigin/RubenBoone-BasicHomepage[m[33m)[m
+Merge: 743e796 c55b227
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Fri Jan 24 15:17:09 2020 +0100
+
+    Merge branch 'master' into RubenBoone-BasicHomepage
+
+[33mcommit 743e7964c9bd4d644b9c3267613ea86a61ac0b4e[m
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Fri Jan 24 15:14:58 2020 +0100
+
+    Tussendoor Homepage
+
+[33mcommit c55b22721b8a23b358f06d29b79fd999bca0b7aa[m
+Merge: a82616c 969cc79
+Author: Jarne Bauwens <47212105+Jarne1998@users.noreply.github.com>
+Date:   Fri Jan 24 15:07:48 2020 +0100
+
+    Merge pull request #64 from itfactory-tm/vincentdebouvre-armoede
+    
+    pagina proberen aan te passen, niet gelukt. Dus gewoon kleine verfijn…
+
+[33mcommit a82616cc4766e3c567a02e5e1d6f700f35703ea0[m
+Merge: 7380ffa 8b203ea
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 15:06:48 2020 +0100
+
+    Merge pull request #63 from itfactory-tm/brent10-branch
+    
+    foto, button ,link naar min
+
+[33mcommit 969cc79aa39b44458ae52eaa78b3595563c5880f[m[33m ([m[1;31morigin/vincentdebouvre-armoede[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 15:03:25 2020 +0100
+
+    pagina proberen aan te passen, niet gelukt. Dus gewoon kleine verfijningen gedaan
+
+[33mcommit 8b203ea8e7d696a6f613c54cea75ecf1e6694ebd[m[33m ([m[1;31morigin/brent10-branch[m[33m)[m
+Author: Ramirez-Brent <r0801889@student.thomasmore.be>
+Date:   Fri Jan 24 14:55:59 2020 +0100
+
+    foto, button ,link naar min
+
+[33mcommit 7380ffac6c612c96ff0e35ac0e778198f1b8d3c3[m
+Merge: 956c9c0 6ba26a3
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 14:32:49 2020 +0100
+
+    Merge pull request #61 from itfactory-tm/vincentdebouvre-onzepartners
+    
+    onze partners in armoede toegevoegd
+
+[33mcommit 956c9c003fc582e5630f216247ade3bd508e1aed[m
+Merge: 51a59c0 e0b147e
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 14:31:53 2020 +0100
+
+    Merge pull request #62 from itfactory-tm/jarne-activiteiten2
+    
+    aanpassing van grootte foto's
+
+[33mcommit 6ba26a3d95a8fc370589098ad5ee84ebdd9246d5[m[33m ([m[1;31morigin/vincentdebouvre-onzepartners[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 14:29:29 2020 +0100
+
+    onze partners in armoede toegevoegd
+
+[33mcommit e0b147e82e3244efb65c7402348c3f4c4767eb51[m[33m ([m[1;31morigin/jarne-activiteiten2[m[33m)[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Fri Jan 24 14:23:13 2020 +0100
+
+    aanpassing van grootte foto's
+
+[33mcommit 51a59c05941fcd7776429ef8603a0d2cc6de7131[m
+Merge: 1c974d5 3cc0935
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 14:03:43 2020 +0100
+
+    Merge pull request #58 from itfactory-tm/vincentdebouvre-foutjerechtzetten
+    
+    fout rechtzetten, haakje vergeten in CSS.
+
+[33mcommit 1c974d5d45bcf742a3032d26978712628009bdf7[m
+Merge: f4271b7 b19e2ed
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 14:03:30 2020 +0100
+
+    Merge pull request #59 from itfactory-tm/brent8-branch
+    
+    op=op
+
+[33mcommit f4271b725709d1a6101ae95c72f6ece70a572d94[m
+Merge: 06e064b c934f8f
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 14:01:55 2020 +0100
+
+    Merge pull request #60 from itfactory-tm/brent9-branch
+    
+    ook doneren
+
+[33mcommit c934f8f478f920a6f4f4fe2249d952e715e561a1[m[33m ([m[1;31morigin/brent9-branch[m[33m)[m
+Author: Ramirez-Brent <r0801889@student.thomasmore.be>
+Date:   Fri Jan 24 13:52:49 2020 +0100
+
+    ook doneren
+
+[33mcommit b19e2ed0a61b82268e4e83f08c6f60a19c254819[m[33m ([m[1;31morigin/brent8-branch[m[33m)[m
+Author: Ramirez-Brent <r0801889@student.thomasmore.be>
+Date:   Fri Jan 24 13:50:18 2020 +0100
+
+    op=op
+
+[33mcommit 3cc09359dd57e3682944644b15471a063f3e244e[m[33m ([m[1;31morigin/vincentdebouvre-foutjerechtzetten[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 13:45:16 2020 +0100
+
+    fout rechtzetten, haakje vergeten in CSS.
+
+[33mcommit 06e064be06a011a790687b62e4a2b69be3ed3cd5[m
+Merge: 2f0ccb3 9110e83
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 13:41:10 2020 +0100
+
+    Merge pull request #57 from itfactory-tm/vincentdebouvre-sponsorpaginaklaar
+    
+    Sponsor pagina volledig klaar. enkel header en footer ontbreken wegen…
+
+[33mcommit 9110e83a91b2bdfed1f73ffb876d597a1e575752[m[33m ([m[1;31morigin/vincentdebouvre-sponsorpaginaklaar[m[33m)[m
+Merge: 7f4570d 2f0ccb3
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 13:40:53 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-sponsorpaginaklaar
+
+[33mcommit 7f4570d3024c9d66e2b68da6376914010cc7724a[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 13:39:07 2020 +0100
+
+    Sponsor pagina volledig klaar. enkel header en footer ontbreken wegens nog niet op punt
+
+[33mcommit 2f0ccb3cdad03b666f0fa690b07d8abefac5755f[m
+Merge: 3242985 8fe3579
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 13:36:59 2020 +0100
+
+    Merge pull request #56 from itfactory-tm/jarne-activiteiten
+    
+    activiteiten in card vorm veranderen en foto's toevoegen
+
+[33mcommit 8fe3579d82616665174bd24de5c39b866b7173a9[m[33m ([m[1;31morigin/jarne-activiteiten[m[33m)[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Fri Jan 24 13:34:36 2020 +0100
+
+    activiteiten in card vorm veranderen en foto's toevoegen
+
+[33mcommit 3242985c61c8cc145aa9b19db4a1a23a782c007b[m
+Merge: 3d1dc1c 5d105bb
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Fri Jan 24 13:11:21 2020 +0100
+
+    Merge pull request #55 from itfactory-tm/vincentdebouvre-sponsorlijstenafbeeldingen
+    
+    Sponsorlijst gemaakt, donatie html aangemaakt, alsook wijzigingen aan…
+
+[33mcommit 5d105bbb1f062d80d4fba476eaa244cd226276e0[m[33m ([m[1;31morigin/vincentdebouvre-sponsorlijstenafbeeldingen[m[33m)[m
+Merge: ae5d53b 3d1dc1c
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 11:54:08 2020 +0100
+
+    Merge branch 'master' into vincentdebouvre-sponsorlijstenafbeeldingen
+
+[33mcommit ae5d53b42a8c71e4e00049d2188acf1e3323d1c8[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Fri Jan 24 11:52:38 2020 +0100
+
+    Sponsorlijst gemaakt, donatie html aangemaakt, alsook wijzigingen aan de sponsors html. Ook fotos toegevoegd
+
+[33mcommit 3d1dc1c53ed579cb958cfaa1ae66f60da33d8ca8[m
+Merge: 8976ad7 907353b
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 11:43:43 2020 +0100
+
+    Merge pull request #54 from itfactory-tm/brent7-branch
+    
+    text-shadow + button link
+
+[33mcommit 907353b254c2cbeff237bacda1cd5c35b3342108[m[33m ([m[1;31morigin/brent7-branch[m[33m)[m
+Author: Ramirez-Brent <r0801889@student.thomasmore.be>
+Date:   Fri Jan 24 11:39:52 2020 +0100
+
+    text-shadow + button link
+
+[33mcommit 8976ad74bc0405bb1e2b95de09bc099453f176eb[m
+Merge: f9b9844 aba03b6
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 09:26:19 2020 +0100
+
+    Merge pull request #53 from itfactory-tm/jarne-nieuwepaginas
+    
+    Jarne nieuwepaginas
+
+[33mcommit aba03b61f283ed882163b00609f12fcd55e17b2f[m[33m ([m[1;31morigin/jarne-nieuwepaginas[m[33m)[m
+Merge: 9650314 f9b9844
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 09:25:11 2020 +0100
+
+    Merge branch 'master' into jarne-nieuwepaginas
+
+[33mcommit 9650314885a5fdd826b4ca3910e27a2f2c1d118e[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Fri Jan 24 09:19:52 2020 +0100
+
+    toevoegen historiek pagina, toevoegen header en footer
+
+[33mcommit 97d38747084f495edfc650bc40573bef4976d648[m[33m ([m[1;31morigin/jarne-pagina[m[33m)[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Fri Jan 24 09:14:41 2020 +0100
+
+    Aanmaken van historiek pagina & toevoegen van containers & toevoegen van hoeader en footer
+
+[33mcommit f9b98443e491734dc3fd3919ac6e7b0dc5daa7d2[m
+Merge: 0764220 3b0d5d1
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Fri Jan 24 08:11:29 2020 +0100
+
+    Merge pull request #51 from itfactory-tm/RubenBoone-BasicHomepage
+    
+    Header + Footer (Nog te verfijnen) en tekst van homepage
+
+[33mcommit 3b0d5d104f40864ccaf490cf480d313311bc66c7[m
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Thu Jan 23 22:43:21 2020 +0100
+
+    Header + Footer (Nog te verfijnen) en tekst van homepage
+
+[33mcommit 0764220cdf316b3ecc93a357d7bdb95486c66dd5[m
+Merge: 92ef004 50d60be
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Thu Jan 23 15:44:49 2020 +0100
+
+    Merge pull request #50 from itfactory-tm/activiteiten
+    
+    aanmaken activiteiten pagina
+
+[33mcommit 92ef004c55240a4c71eba26781a468738037ec9b[m
+Merge: 9121e30 dad6062
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Thu Jan 23 15:43:54 2020 +0100
+
+    Merge pull request #49 from itfactory-tm/vincentdebouvre-websitevalide
+    
+    HTML en CSS volledig valide
+
+[33mcommit 50d60bed039c4c59ff4295ae8e7766289b31ea9a[m[33m ([m[1;31morigin/activiteiten[m[33m)[m
+Author: Jarne Bauwens <r0781813@student.thomasmore.be>
+Date:   Thu Jan 23 15:43:18 2020 +0100
+
+    aanmaken activiteiten pagina
+
+[33mcommit dad606226f8a85f156cd5bbb0a25c4b9291ee1f0[m[33m ([m[1;31morigin/vincentdebouvre-websitevalide[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Thu Jan 23 15:41:48 2020 +0100
+
+    HTML en CSS volledig valide
+
+[33mcommit 9121e307524aabbf5ee5d4444e94a3b5f742232c[m
+Merge: 5268d5f e49b296
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Thu Jan 23 12:40:51 2020 +0100
+
+    Merge pull request #47 from itfactory-tm/vincentdebouvre-achtergrondenaangepast
+    
+    fotos van grootte veranderd
+
+[33mcommit 5268d5f1ff75af5cb6fb4cfe719eacecb3af95b6[m
+Merge: cbd33e8 afa2e9a
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Thu Jan 23 12:40:39 2020 +0100
+
+    Merge pull request #48 from itfactory-tm/oplossing
+    
+    foto2 opgelost
+
+[33mcommit afa2e9a63fd9ec1fe8309916180f33a9e0f031ef[m[33m ([m[1;31morigin/oplossing[m[33m)[m
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Thu Jan 23 12:39:40 2020 +0100
+
+    foto2 opgelost
+
+[33mcommit e49b29678f7bd489fc5e84de1a2f79d55392773c[m[33m ([m[1;31morigin/vincentdebouvre-achtergrondenaangepast[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Thu Jan 23 12:35:35 2020 +0100
+
+    fotos van grootte veranderd
+
+[33mcommit cbd33e81f3c0b0103720c2091ea8e2a9319979b9[m
+Merge: 9e52eb5 62dd408
+Author: RubenBoone <57668821+RubenBoone@users.noreply.github.com>
+Date:   Thu Jan 23 11:59:43 2020 +0100
+
+    Merge pull request #43 from itfactory-tm/vincentdebouvre-fotosaangepast
+    
+    fotos aangepast van grootte
+
+[33mcommit 62dd4082242255dce512eebcc7c52d0a89114804[m[33m ([m[1;31morigin/vincentdebouvre-fotosaangepast[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Thu Jan 23 11:58:20 2020 +0100
+
+    fotos aangepast van grootte
+
+[33mcommit 9e52eb5dead434ddecc688bf7567a84eecc2b13e[m
+Merge: 594d1a2 43323cf
+Author: Jarne1998 <47212105+Jarne1998@users.noreply.github.com>
+Date:   Thu Jan 23 11:43:25 2020 +0100
+
+    Merge pull request #42 from itfactory-tm/vincentdebouvre-nogwattekstaangepast
+    
+    tekst van de jarne bijgevoegd
+
+[33mcommit 594d1a24c082b87b439421ad3bd128d95adf101e[m
+Merge: 9d2c07e ca67f7d
+Author: Vincent de Bouvre <57669762+vincentdebouvre@users.noreply.github.com>
+Date:   Thu Jan 23 11:43:00 2020 +0100
+
+    Merge pull request #41 from itfactory-tm/brent6-branch
+    
+    info brent 2
+
+[33mcommit 43323cf043a5d5b8cfee312a1fc60b36b8cb6fe0[m[33m ([m[1;31morigin/vincentdebouvre-nogwattekstaangepast[m[33m)[m
+Author: vincentdebouvre <r0783561@student.thomasmore.be>
+Date:   Thu Jan 23 11:41:45 2020 +0100
+
+    tekst van de jarne bijgevoegd
+
+[33mcommit ca67f7dbb124dbea9927218e0dcba6e683e11bbb[m[33m ([m[1;31morigin/brent6-branch[m[33m)[m
+Author: Ramirez-Brent <r0801889@student.thomasmore.be>
+Date:   Thu Jan 23 11:39:32 2020 +0100
+
+    info brent 2
