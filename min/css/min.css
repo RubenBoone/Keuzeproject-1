@@ -11,6 +11,7 @@ body {
 }
 
 
+
 /* Ruben: */
 footer a {
     color: #fff;
@@ -22,8 +23,12 @@ footer a {
 }
 
 
+
 /*Van Vincent*/
 .kleinetitels {
     font-size: 20px;
     padding-top: 20px;
+
+.card {
+    width: 400px;
 }
