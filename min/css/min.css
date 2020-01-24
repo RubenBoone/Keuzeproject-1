@@ -16,6 +16,7 @@ footer a {
     text-decoration: underline;
 }
 
+/*van Ruben*/
 .vet {
     font-weight: bold;
 }
@@ -55,6 +56,7 @@ a:focus {
     font-size: 20px;
     padding-top: 20px;
 }
+
 
 .vettevoet {
     font-weight: bold;
