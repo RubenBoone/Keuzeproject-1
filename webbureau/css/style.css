@@ -128,10 +128,17 @@ footer.page-footer {
     text-shadow: 0px 0px 15px #fff;
 }
 
-/*
 .min-foto {
-    height: 800px;
-    width: 80%;
+    padding-top: 75px;
+    max-width: 500px;
+    width: 100%;
     align-items: center;
 }
-*/
+
+.btn {
+    top: -95px;
+}
+
+.min {
+    bottom: -150px;
+}
