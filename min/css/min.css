@@ -78,3 +78,30 @@ a:focus {
 .card {
     width: 400px;
 }
+
+/*Van Jarne*/
+
+.centreren {
+    text-align: center;
+    height: 60%;
+    width: 400px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.card2 {
+    width: 400px;
+    margin: 20px;
+    align-content: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+iframe {
+    align-content: center;
+    margin: auto;
+    padding: inherit;
+    width: 100%;
+}
