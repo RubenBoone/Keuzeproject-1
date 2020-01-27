@@ -72,6 +72,15 @@ a:focus {
     padding-top: 20px;
 }
 
+.fotoverkleinen {
+    height: 75%;
+    width: 100%;
+    padding-top: 20px;
+}
+
+fotoalign {
+    align-items: flex-end;
+}
 
 /*Activiteiten kaarten*/
 
