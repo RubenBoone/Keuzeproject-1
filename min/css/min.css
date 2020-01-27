@@ -132,3 +132,7 @@ iframe {
     padding: inherit;
     width: 100%;
 }
+
+.breedte-kaarte {
+    width: 50%;
+}
