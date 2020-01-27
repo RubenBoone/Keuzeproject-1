@@ -140,4 +140,10 @@ footer.page-footer {
     text-align: center;
     width: 400px;
     border-radius: 20px;
+    top: 50%;
+    margin-top: 70px;
+}
+
+.top {
+    margin-top: 70px;
 }
