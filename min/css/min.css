@@ -87,6 +87,17 @@ a:focus {
     margin-top: 40px;
 }
 
+@media only screen and (max-width: 1007px) {
+    .beetjemeerpadding {
+        margin-top: 0% !important
+    }
+
+}
+
+.beetjenogmeer {
+    margin-top: 20%;
+}
+
 
 
 /*Activiteiten kaarten*/
