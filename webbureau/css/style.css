@@ -121,18 +121,11 @@ footer.page-footer {
 }
 
 .text-shadow-dark {
-    text-shadow: 0px 0px 15px #000;
+    text-shadow: 0px 0px 10px #000;
 }
 
 .text-shadow-light {
-    text-shadow: 0px 0px 15px #fff;
-}
-
-.min-foto {
-    padding-top: 75px;
-    max-width: 500px;
-    width: 100%;
-    align-items: center;
+    text-shadow: 0px 0px 10px #fff;
 }
 
 .btn {
@@ -141,4 +134,10 @@ footer.page-footer {
 
 .min {
     bottom: -150px;
+}
+
+.centreren {
+    text-align: center;
+    width: 400px;
+    border-radius: 20px;
 }
